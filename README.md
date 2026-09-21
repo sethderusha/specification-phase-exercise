@@ -4,10 +4,10 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-Seth DeRusha https://github.com/sethderusha
-Jade Leong https://github.com/Jade-Leong
-Alissa Wu https://github.com/alissawu
-Pope Cruz https://github.com/pope-cruz
+Seth DeRusha https://github.com/sethderusha\
+Jade Leong https://github.com/Jade-Leong\
+Alissa Wu https://github.com/alissawu\
+Pope Cruz https://github.com/pope-cruz\
 Khidir Ahmed https://github.com/khidirahmed
 
 ## Review of the Current Application
