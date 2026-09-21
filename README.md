@@ -32,6 +32,8 @@ Khidir Ahmed https://github.com/khidirahmed
 
 ## Prior Art & Originality
 
+We checked the SPEC.md and ROADMAP.md. We noticed that the weakness of the text to speech has been addressed, but we believe it still needs improvement. We also noticed that there was planned onboarding documents for faculty, but there should be an onboarding flow when signing in the application. We noticed the problem with the exit-ticket system due to FERPA, but there should be a way to view the questions and answers when reviewing the slides for studying. Although our two suggestions address similar issues, we believe we have a more comprehensive idea.
+
 See instructions. Delete this line and replace with a short statement of what your team checked (the project's Future Work and Open Questions, its roadmap, and its open issues and pull requests) and which parts of your proposal are original — new work not already specified, scheduled, or proposed by someone else.
 
 ## Stakeholders
