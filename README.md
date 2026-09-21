@@ -4,11 +4,32 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
+Seth DeRusha https://github.com/sethderusha
+Jade Leong https://github.com/Jade-Leong
+Alissa Wu https://github.com/alissawu
+Pope Cruz https://github.com/pope-cruz
+Khidir Ahmed https://github.com/khidirahmed
 
 ## Review of the Current Application
 
-See instructions. Delete this line and replace with your team's findings from using the live app at https://theslidemachine.com — at least 10 specific observations, each labeled as a strength, a weakness, or a gap, and drawn from more than one team member's use of the app.
+### Strength
+- Can seed old notes to allow instructors to pick up the app quickly and keep old information about a topic.
+- Privacy policy, Terms & Conditions, and feedback page are clear and visible
+- Slides can be organized in projects, which is something that Google Slides/Docs lacks since there are no folders.
+- Can translate slides into different languages.
+
+### Weakness
+- Lacking Google Drive integration, accounts linked with Google could allow for importing Google Slides to create templates or to export slides into Google Drive.
+- Sidebar on landing page on left-hand side which is not optimal.
+- Text to speech on replay is very robotic.
+- Minimum password length unclear.
+- No dark mode.
+
+### Gap
+- No on-boarding flow in the app. After sign-up user is just placed in the main page with little direction.
+- No differentiation between student and instructor workflow, students can only view slides on a instructor level, not a class/project level.
+- No way to review exit ticket quizzes as someone looking back at slides.
+- No comment/feedback system on slides level, only upvote and downvote.
 
 ## Prior Art & Originality
 
