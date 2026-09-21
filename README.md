@@ -19,7 +19,6 @@ Khidir Ahmed https://github.com/khidirahmed
 - Can translate slides into different languages.
 
 ### Weakness
-- Lacking Google Drive integration, accounts linked with Google could allow for importing Google Slides to create templates or to export slides into Google Drive.
 - Sidebar on landing page on left-hand side which is not optimal.
 - Text to speech on replay is very robotic.
 - Minimum password length unclear.
