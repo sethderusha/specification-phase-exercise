@@ -38,6 +38,12 @@ See instructions. Delete this line and replace with a short statement of what yo
 
 ## Stakeholders
 
+**Students:** 
+- JH: JH is a third-year undergraduate student in the Interactive Media Arts program in Tisch. JH is also active in student clubs, and also regularly leads general meetings which provides an interesting use case. The first main issue was the lack of clarity on the landing page and the purpose of what the dashboard was, the voting system was unclear on her end, and as to why there was a discover section for presentations. I presented Prof. Bloomberg's profile, and it was noted that she would like easier use of navigation of presentations, one such suggestion was tabs or dropdown menu in the profile. Going through the presentations she wished for a carousel to skip ahead in the slides when reviewing as clicking through slides with 100+ slides can be cumbersome. I also had her test the slide generation features, and the model was not able to properly understand her voice, and the model also did not work well in louder environments (Floor 5 in Bobst). The settings felt somewhat counterintuitive with the two movable tool bars.
+
+**Instructors:**
+- FH: FH is a teaching assistant for CS 202 Operating Systems @ NYU CAS. When he was first onboarded he was confused on the actual purpose of The Slide Machine until he started making lecture slides. With the seed material he was unsure what the AI would do with the seed material, and the context of the type of audience he is presenting to (e.g. seed material can all be known to the target audience and is a waste to regurgitate in the slides). He personally appreciated the ability to use LaTeX, but when he prompted for a diagram a seed image came out. He also would wish him prompting the creation of slides, vs. the transcript would be different tracks since "write a math equation" would not be helpful for students reviewing. Lastly, he suggested that there would be a native inbuilt diagram maker instead of using one from online.
+
 See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations. Note which type of user each stakeholder represents. You may use pseudonyms or partial names to maintain their privacy, but you must privately share their full names and contact information as part of your submission of this exercise
 
 ## Product Vision Statement
