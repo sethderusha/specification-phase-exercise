@@ -44,7 +44,17 @@ See instructions. Delete this line and replace with a short statement of what yo
 **Instructors:**
 - FH: FH is a teaching assistant for CS 202 Operating Systems @ NYU CAS. When he was first onboarded he was confused on the actual purpose of The Slide Machine until he started making lecture slides. With the seed material he was unsure what the AI would do with the seed material, and the context of the type of audience he is presenting to (e.g. seed material can all be known to the target audience and is a waste to regurgitate in the slides). He personally appreciated the ability to use LaTeX, but when he prompted for a diagram a seed image came out. He also would wish him prompting the creation of slides, vs. the transcript would be different tracks since "write a math equation" would not be helpful for students reviewing. Lastly, he suggested that there would be a native inbuilt diagram maker instead of using one from online.
 
+- AC: AC is a Rise Of Internet Media professor @ NYU Steinhardt. After using it for a few minutes, he said there's no way he would use this app. He thinks slide making is labor intensive but this is intensely limited. Just couldn't figure out how to make the slides more compelling. Described things and not much changed and it kept making two slides.
+Few notes from AC:
+1. It's always hard to be able to access although that I know and want to say or reference.  
+2.  Images are vital to retaining students interest. Searching for them takes time and turning them into slides takes time.
+3.  I run a device free classroom so students have to take notes by hand. I think it would be nice if lectures could have ai notetakers so that they were delivered to students aftereawrds so students could lock in and concentrate.
+
+
+
 See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations. Note which type of user each stakeholder represents. You may use pseudonyms or partial names to maintain their privacy, but you must privately share their full names and contact information as part of your submission of this exercise
+
+
 
 ## Product Vision Statement
 
