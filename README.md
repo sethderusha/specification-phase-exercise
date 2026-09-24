@@ -34,8 +34,6 @@ Khidir Ahmed https://github.com/khidirahmed
 
 We checked the SPEC.md and ROADMAP.md. We noticed that the weakness of the text to speech has been addressed, but we believe it still needs improvement. We also noticed that there was planned onboarding documents for faculty, but there should be an onboarding flow when signing in the application. We noticed the problem with the exit-ticket system due to FERPA, but there should be a way to view the questions and answers when reviewing the slides for studying. Although our two suggestions address similar issues, we believe we have a more comprehensive idea.
 
-See instructions. Delete this line and replace with a short statement of what your team checked (the project's Future Work and Open Questions, its roadmap, and its open issues and pull requests) and which parts of your proposal are original — new work not already specified, scheduled, or proposed by someone else.
-
 ## Stakeholders
 
 **Students:** 
@@ -44,7 +42,6 @@ See instructions. Delete this line and replace with a short statement of what yo
 
 **Instructors:**
 - FH: FH is a teaching assistant for CS 202 Operating Systems @ NYU CAS. When he was first onboarded he was confused on the actual purpose of The Slide Machine until he started making lecture slides. With the seed material he was unsure what the AI would do with the seed material, and the context of the type of audience he is presenting to (e.g. seed material can all be known to the target audience and is a waste to regurgitate in the slides). He personally appreciated the ability to use LaTeX, but when he prompted for a diagram a seed image came out. He also would wish him prompting the creation of slides, vs. the transcript would be different tracks since "write a math equation" would not be helpful for students reviewing. Lastly, he suggested that there would be a native inbuilt diagram maker instead of using one from online.
-
 - AC: AC is a Rise Of Internet Media professor @ NYU Steinhardt. After using it for a few minutes, he said there's no way he would use this app. He thinks slide making is labor intensive but this is intensely limited. Just couldn't figure out how to make the slides more compelling. Described things and not much changed and it kept making two slides.
 Few notes from AC:
 1. It's always hard to be able to access although that I know and want to say or reference.  
@@ -57,9 +54,6 @@ The Slide Machine creates a seamless session experience for instructors and stud
 
 
 ## User Requirements
-
-See instructions. Delete this line and place a list of your User Stories here, grouped by type of user. These should describe functionality that is new or changed, not functionality the app already has.
-
 
 Instructor:
 1. As an instructor, I want to know all features in the website to navigate the app.
@@ -75,16 +69,16 @@ Instructor:
 
 
 Student:
-As a student, I want [some goal] so that [some reason].
-* review slides
-* review quiz questions
-* access slides related to my class quickly
-* access slides quickly from discover page
-* create class presentations
-* make presentations with starting point
-* make multiple slides in the beginning
-* SM suggested a tutorial specifically for the voice feature used to create slides
-
+1. As a student, I want to access all of my class's slides to review/reinforce information from my lectures.
+2. As a student, I want to review quizzes so I can understand gaps in my knowledge.
+3. As a student, I want to know where all features are so I can quickly start reviewing.
+4. As a student, I want to make slideshows from my voice to engage with my content.
+5. As a student, I want to have an interface focused on review to streamline my usage of the app.
+6. As a student, I want to have practice questions to study for exams based on what covered.
+7. As a student, I want to have reliable summaries of lectures to ensure I didn't miss important information.
+8. As a student, I want to be able to access my projects from the home page so I can navigate quickly.
+9. As a student, I want to quiz questions and correct answers to be saved in the app so I can review them when studying.
+10. As a student, I want to join my class's project so I can access the slides and materials shared by my instructor.
 
 ## Core Feature Changes (Ideation for onboarding)
 - onboarding
@@ -128,8 +122,6 @@ After these two different flows,
 * if you want to create your own slides, then click + on the top (create slide)
     * if a student decides to The slides go into the same flow for the slideshow as the professor does
 * you're all set 
-
-
 
 
 ## Activity Diagrams
